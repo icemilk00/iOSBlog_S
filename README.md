@@ -1,7 +1,7 @@
 # iOSBlog_S
 This is a blogs gathering place for iOS.
 
-[王巍@onevcat的技术博客](http://www.onevcat.com/#blog) 
+[王巍@onevcat的技术博客](http://www.onevcat.com/#blog)     
 [唐巧的技术博客](http://blog.devtang.com/) 
 [南峰子的技术博客](http://southpeak.github.io/) 
 [田伟宇-Casa Taloyum](http://casatwy.com/) 
@@ -28,7 +28,4 @@ This is a blogs gathering place for iOS.
 [克伟的博客](http://wangkewei.cnblogs.com/) 
 [Cocoabit](http://blog.cocoabit.com/) 
 [不掏蜂窝的熊](http://www.hotobear.com/) 
-
-
-
 
