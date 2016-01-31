@@ -2,7 +2,7 @@
 This is a blogs gathering place for iOS.
 
 ---
-前半部分的一些都是我自己平常看的一些技术blog，下面的一些是从(唐巧唐大神维护的一个博客列表)[https://github.com/tangqiaoboy/iOSBlogCN]挨个看了之后摘下来的，都是相对比较活跃的，有一些不是很活跃的就没有摘，主要都是国内的技术博客，这个博客列表我会自己不定时主动维护，也接受pull request，希望能帮到别人，也希望自己进步。
+前半部分的一些都是我自己平常看的一些技术blog，下面的一些是从[唐巧唐大神维护的一个博客列表](https://github.com/tangqiaoboy/iOSBlogCN)挨个看了之后摘下来的，都是相对比较活跃的，有一些不是很活跃的就没有摘，主要都是国内的技术博客，这个博客列表我会自己不定时主动维护，也接受pull request，希望能帮到别人，也希望自己进步。
 
 [王巍@onevcat的技术博客](http://www.onevcat.com/#blog)  
 [唐巧的技术博客](http://blog.devtang.com/)  
